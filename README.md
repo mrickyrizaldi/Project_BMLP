@@ -1,5 +1,5 @@
 # Project_MLP
-Repository Project Machine Learning Pemula
+**Repository Project Machine Learning Pemula**  
 Author : mrickyrizaldi
 
 **Folder Clustering** : Berisi dataset asli dan notebook clustering  
