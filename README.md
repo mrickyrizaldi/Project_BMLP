@@ -1,6 +1,6 @@
-# Project_MLP
-**Repository Project Machine Learning Pemula**  
-Author : mrickyrizaldi
+# Project_BMLP
+**Repository Project Belajar Machine Learning Pemula**  
+Author : [mrickyrizaldi](https://github.com/mrickyrizaldi/Project_BMLP/tree/main)
 
 **Folder Clustering** : Berisi dataset asli dan notebook clustering  
 **Folder Klasifikasi** : Berisi dataset hasil Clustering dan notebook klasifikasi
